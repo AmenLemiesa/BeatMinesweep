@@ -4,9 +4,9 @@ Autoplayer for a canvas Minesweeper variant.
 
 ## Images
 
-![Screenshot 1](docs/image-1.png)
+![Screenshot 1](/AlmostComplete.png)
 
-![Screenshot 2](docs/image-2.png)
+![Screenshot 2](/Completion.png)
 
 ## Use
 
