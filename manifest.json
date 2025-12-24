@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Minesweeper Auto Play",
+  "version": "1.0",
+  "description": "Automatically plays Google Minesweeper by visually analyzing the game board",
+  "permissions": ["scripting", "activeTab"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Minesweeper Auto Play"
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
